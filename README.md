@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Text Embeddings**
 
-- 👨‍💻 All of my projects are available at himanshudotdev.vercel.app
+- 👨‍💻 All of my projects are available at [himanshudotdev.vercel.app](https://himanshudotdev.vercel.app)
 
 - 💬 Ask me about **Python , scikit learn , React , Tailwind**
 
